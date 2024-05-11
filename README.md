@@ -1,2 +1,3 @@
 # apnacollegedemo
-this is my first rep
+this is my first repository
+author shreya
